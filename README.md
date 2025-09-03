@@ -1,5 +1,4 @@
-Tic-Tac-Toe Game
-A classic two-player Tic-Tac-Toe game built from scratch using HTML, CSS, and JavaScript.
+This is a classic two-player Tic-Tac-Toe game built from scratch using HTML, CSS, and JavaScript.
 This project is a simple demonstration of core web development skills, including DOM manipulation, event handling, and game logic.
 
 How to Play:
