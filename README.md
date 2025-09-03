@@ -3,7 +3,7 @@ This project is a simple demonstration of core web development skills, including
 
 How to Play:
 1) Open the index.html file in your web browser.
-2) Player X goes first. Click on an empty cell to place your mark.
+2) Player X goes first, then Player O. Click on an empty cell to place your mark.
 3) The game will announce the winner or if it's a draw.
 4) Click the "Reset Game" button to start a new game.
 
